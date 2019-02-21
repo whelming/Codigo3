@@ -1,0 +1,6 @@
+/* table tr>th:first-child{
+  background: red;
+} */
+tr>*:nth-child(1){
+  background: gray;
+}
